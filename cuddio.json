@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/phoenix1331/cuddio/releases/download/v0.1.0/cuddio_0.1.0_windows_amd64.zip",
+            "bin": [
+                "cuddio.exe"
+            ],
+            "hash": "9ffde67e797e49752efda650ce5ef252e8679b2a00a3f5435e12a513ab2474df"
+        },
+        "arm64": {
+            "url": "https://github.com/phoenix1331/cuddio/releases/download/v0.1.0/cuddio_0.1.0_windows_arm64.zip",
+            "bin": [
+                "cuddio.exe"
+            ],
+            "hash": "91768616e5743bbbce8fa7a32695d4afab13b2b10bcbccb85f30bf3dfc00e1cc"
+        }
+    },
+    "homepage": "https://phoenix1331.github.io/cuddio",
+    "license": "MIT",
+    "description": "Hide secrets and PII in logs, SQL dumps and text before you paste them into AI tools"
+}
